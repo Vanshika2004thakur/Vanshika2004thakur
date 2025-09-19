@@ -1,59 +1,78 @@
+<h1 align="center">Hi 👋, I'm Vanshika Thakur</h1>
 
-
-<h1 align="center">Hi 👋, I'm Vanshika Thakur </h1>
-
-
-  <p align="centre">
-  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200">
-</p>
-- 🔭 I’m currently working on 
-
-- 📫 How to reach me **vanshikathakurar@gmail.com**
-
-- 📄 My Resume
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://leetcode.com/u/garg10sumit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/garg10sumit/" height="30" width="40" /></a>
-<a href="linkedin.com/in/vanshika-thakur-19201a24b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/vanshika-thakur-19201a24b/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="Girl Coding Animation" width="600"/>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vanshika2004thakur" alt="Vanshika2004thakur" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-  <a href="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200" height="200" width="200" /></a>
-  <a href="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-10.gif" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-10.gif" alt="jyot" height="200" width="200" /></a>
+### 👩‍💻 About Me
+- 🔭 I’m currently working on **exciting coding projects**  
+- 📫 Reach me at: **vanshikathakurar@gmail.com**  
+- 🌱 I’m learning **Full Stack Development & DSA**  
+- ⚡ Fun fact: I love to build things that solve real-life problems 🚀  
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://leetcode.com/u/garg10sumit/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/vanshika-thakur-19201a24b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<img src = "https://github.com/SohaHussain/SohaHussain/blob/main/github-contribution-grid-snake.svg"/>
-### Coding Stats
-<!--START_SECTION:waka-->
 
-```txt
-Total Time: 1 hr 42 mins
+---
 
-CSS    1 hr 10 mins    █████████████████▒░░░░░░░   68.74 %
-HTML   32 mins         ███████▓░░░░░░░░░░░░░░░░░   31.26 %
-```
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vanshika2004thakur&theme=dracula&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+</p>
 
-----
+---
 
-<h3 align="left">Support:</h3>
-<p> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sreecharan1234" /></p><br><br>
-<h3 align="left">Ratings</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vanshika2004thakur&show_icons=true&locale=en&layout=compact" alt="Vanshika2004thakur" /></p>
+### 🎖️ LeetCode Badges
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="150"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" height="150"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="150"/>
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-10.gif" height="150"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vanshika2004thakur&show_icons=true&locale=en" alt="Vanshika2004thakur" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user="Vanshika2004thakur" alt="Vanshika2004thakur" /></p>
+### 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,bootstrap,tailwind,react,django,flask,mysql,mongodb,postgres,git,github,docker,heroku,aws,tensorflow,pytorch,opencv" />
+</p>
 
-### 🔝 Top Contributed Repo
-<div align="left">
+---
 
-  
-![](https://github-contributor-stats.vercel.app/api?username=Vanshika2004thakur&limit=5&theme=light&combine_all_yearly_contributions=true)
-</div>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanshika2004thakur&show_icons=true&theme=radical" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika2004thakur&layout=compact&theme=radical" alt="top langs" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vanshika2004thakur&theme=radical&hide_border=true" alt="streak"/>
+</p>
+
+---
+
+### 🔝 Top Contributed Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Vanshika2004thakur&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/SohaHussain/SohaHussain/blob/main/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
+⭐️ From [Vanshika2004thakur](https://github.com/Vanshika2004thakur)
