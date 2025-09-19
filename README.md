@@ -55,12 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika2004thakur&layout=compact&theme=radical" alt="top langs" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vanshika2004thakur&theme=radical&hide_border=true" alt="streak"/>
-</p>
-
-
-
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/SohaHussain/SohaHussain/blob/main/github-contribution-grid-snake.svg" alt="snake"/>
