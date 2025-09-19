@@ -49,7 +49,7 @@ HTML   32 mins         ███████▓░░░░░░░░░░░
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vanshika2004thakur&show_icons=true&locale=en" alt="Vanshika2004thakur" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshika2004thakur&" alt="Vanshika2004thakur" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user="Vanshika2004thakur" alt="Vanshika2004thakur" /></p>
 
 ### 🔝 Top Contributed Repo
 <div align="left">
