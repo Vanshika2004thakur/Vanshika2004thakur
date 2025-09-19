@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanshika Thakur</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="Girl Coding Animation" width="600"/>
+  <p align="center">
+  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200">
 </p>
 
 ---
@@ -48,7 +48,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,bootstrap,tailwind,react,django,flask,mysql,mongodb,postgres,git,github,docker,heroku,aws,tensorflow,pytorch,opencv" />
 </p>
 
----
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -60,19 +59,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Vanshika2004thakur&theme=radical&hide_border=true" alt="streak"/>
 </p>
 
----
 
-### 🔝 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Vanshika2004thakur&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
-
----
 
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/SohaHussain/SohaHussain/blob/main/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
----
+
 ⭐️ From [Vanshika2004thakur](https://github.com/Vanshika2004thakur)
