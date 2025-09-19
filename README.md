@@ -45,7 +45,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,bootstrap,tailwind,react,django,flask,mysql,mongodb,postgres,git,github,docker,heroku,aws,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,bootstrap,tailwind,react,django,mysql,mongodb,postgres,git,github" />
 </p>
 
 
